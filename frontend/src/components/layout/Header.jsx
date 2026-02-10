@@ -10,7 +10,7 @@ const Header = () => {
         </Link>
         <nav className="nav">
           <Link to="/" className="nav-link">Home</Link>
-          {/* Add more navigation links as features grow */}
+          <Link to="/users" className="nav-link">Users</Link>
         </nav>
       </div>
     </header>
