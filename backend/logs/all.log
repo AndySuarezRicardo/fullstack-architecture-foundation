@@ -1,7 +1,0 @@
-2026-02-10 08:59:22:5922 [32minfo[39m: [32m🚀 Server running on http://localhost:3001[39m
-2026-02-10 08:59:22:5922 [32minfo[39m: [32m📦 Environment: development[39m
-2026-02-10 08:59:22:5922 [32minfo[39m: [32m🔗 API Base: /api/v1[39m
-2026-02-10 09:01:58:158 [35mhttp[39m: [35mGET /api/v1/health 200 134 - 21.703 ms[39m
-2026-02-10 09:02:00:20 [33mwarn[39m: [33mOperational error: Route /favicon.ico not found[39m
-2026-02-10 09:02:00:20 [35mhttp[39m: [35mGET /favicon.ico 404 68 - 6.847 ms[39m
-2026-02-10 09:09:27:927 [35mhttp[39m: [35mGET /api/v1/health 200 134 - 4.566 ms[39m
